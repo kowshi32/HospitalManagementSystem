@@ -20,7 +20,7 @@
   </properties>
 
   <dependencies>
-    <dependenci>
+    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.12.1</version>
